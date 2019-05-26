@@ -44,6 +44,7 @@ const ArticleContent = styled.div`
     border: 1px solid gray;
     border-radius: 6px;
     padding: 16px;
+    margin: 10px 0;
 `
 
 const ArticlesWrapper = styled.div`
